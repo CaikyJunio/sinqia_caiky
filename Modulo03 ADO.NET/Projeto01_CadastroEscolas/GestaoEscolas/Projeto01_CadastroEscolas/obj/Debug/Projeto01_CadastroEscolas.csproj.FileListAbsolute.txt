@@ -1,0 +1,5 @@
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\Projeto01_CadastroEscolas\obj\Debug\Projeto01_CadastroEscolas.csprojAssemblyReference.cache
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\Projeto01_CadastroEscolas\obj\Debug\Projeto01_CadastroEscolas.FormCadastro.resources
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\Projeto01_CadastroEscolas\obj\Debug\Projeto01_CadastroEscolas.Properties.Resources.resources
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\Projeto01_CadastroEscolas\obj\Debug\Projeto01_CadastroEscolas.csproj.GenerateResource.cache
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\Projeto01_CadastroEscolas\obj\Debug\Projeto01_CadastroEscolas.csproj.CoreCompileInputs.cache

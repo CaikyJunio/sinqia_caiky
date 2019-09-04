@@ -1,0 +1,2 @@
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\ClassLibrary1\obj\Debug\Projeto02_AcessoDados.csprojAssemblyReference.cache
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo03 ADO.NET\Projeto01_CadastroEscolas\GestaoEscolas\ClassLibrary1\obj\Debug\Projeto02_AcessoDados.csproj.CoreCompileInputs.cache

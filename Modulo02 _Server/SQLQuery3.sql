@@ -1,0 +1,23 @@
+--Caiky Junio Barbosa De Oliveira
+use master;
+GO
+CREATE DATABASE DB_CADASTRO
+ON
+(
+	NAME = DB_CADASTRO_DAT,
+	FILENAME= N'C:\Users\sinqia\Documents\Sinqia_Aspnet\DATA\DB_CADASTRO.mdf',
+	SIZE = 5000KB,
+	MAXSIZE= UNLIMITED,
+	FILEGROWTH = 1000KB
+)
+
+LOG ON
+(
+	NAME = DB_CADASTRO_LOG,
+	FILENAME= N'C:\Users\sinqia\Documents\Sinqia_Aspnet\DATA\DB_CADASTRO_log.ldf',
+	SIZE = 2000KB,
+	MAXSIZE= UNLIMITED,
+	FILEGROWTH = 1000KB
+
+);
+GO

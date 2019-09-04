@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="02d6573c-845c-4774-b497-eabd9e2124b5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49667/ServiceConceitos.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceConceitos.xsd" MetadataType="Schema" ID="8a294288-7fa4-4336-b5bd-784444cb3128" SourceId="1" SourceUrl="http://localhost:49667/ServiceConceitos.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceConceitos.wsdl" MetadataType="Wsdl" ID="6ce73153-9204-4c99-b03b-8e712dd20d08" SourceId="1" SourceUrl="http://localhost:49667/ServiceConceitos.svc?wsdl" />
+    <MetadataFile FileName="ServiceConceitos1.xsd" MetadataType="Schema" ID="a75a6230-1eff-4538-900c-936c35099795" SourceId="1" SourceUrl="http://localhost:49667/ServiceConceitos.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceConceitos2.xsd" MetadataType="Schema" ID="5bbdebf6-ec89-4ff2-866a-aef361461dad" SourceId="1" SourceUrl="http://localhost:49667/ServiceConceitos.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceConceitos.disco" MetadataType="Disco" ID="d58a2f86-31bb-477a-89d7-0f1454bf129b" SourceId="1" SourceUrl="http://localhost:49667/ServiceConceitos.svc?disco" />
+    <MetadataFile FileName="ServiceConceitos3.xsd" MetadataType="Schema" ID="bac79f60-36bb-493e-82a7-8f42e0272af2" SourceId="1" SourceUrl="http://localhost:49667/ServiceConceitos.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

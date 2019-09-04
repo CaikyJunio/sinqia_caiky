@@ -1,0 +1,7 @@
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\bin\Projeto01_ServiçosWCF.dll.config
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\bin\Projeto01_ServiçosWCF.dll
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\bin\Projeto01_ServiçosWCF.pdb
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\obj\Debug\Projeto01_ServiçosWCF.csprojAssemblyReference.cache
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\obj\Debug\Projeto01_ServiçosWCF.csproj.CoreCompileInputs.cache
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\obj\Debug\Projeto01_ServiçosWCF.dll
+C:\Users\sinqia\Documents\Sinqia_Aspnet\Modulo07_WebService_WSDL\Projeto01_ServiçosWCF\Projeto01_ServiçosWCF\obj\Debug\Projeto01_ServiçosWCF.pdb
